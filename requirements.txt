@@ -3,5 +3,5 @@
 
 numpy == 1.23.5
 pandas
-streamlit == 1.29.0
+streamlit 
 ydata_synthetic == 1.2.0
