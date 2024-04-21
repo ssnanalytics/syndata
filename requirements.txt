@@ -2,6 +2,6 @@
 
 
 numpy == 1.23.5
-pandas == 1.5.3
+pandas == 2.2.0
 streamlit == 1.29.0
 ydata_synthetic == 1.2.0
